@@ -89,7 +89,7 @@ class _ChooseState extends State<Choose> {
                         
                        
                         Navigator.pushNamed(context,'/info' ,arguments:{
-                            'location':location[inedx],
+                            'location':location[index],
                             
 
                           });
